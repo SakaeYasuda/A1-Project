@@ -5,8 +5,30 @@ Integrantes/RGM:
 </br>Juan Pablo Rocha de Souza - 26020777
 </br>Marcos Hamilton - 26373017
 
-Computabilidade e Complexidade de algoritmos
 
-<h1>Algoritmo do Caixeiro Viajante</h1>
-<p><strong>Descrição</strong></p><p>Este repositório contém uma implementação do algoritmo que resolve o famoso problema do caixeiro viajante (TSP - Traveling Salesman Problem). O TSP é um problema de otimização combinatória onde o objetivo é determinar a menor rota possível que um caixeiro deve seguir para visitar cada cidade exatamente uma vez e retornar à cidade de origem.</p><p><strong>Características</strong></p><ul><li><strong>Eficiência</strong>: A implementação busca a solução mais eficiente dentro de um tempo razoável, considerando as limitações computacionais.</li><li><strong>Flexibilidade</strong>: O algoritmo pode ser adaptado para diferentes variações do problema TSP.</li><li><strong>Visualização</strong>: Possui uma interface (se aplicável) que permite visualizar a rota otimizada gerada pelo algoritmo.</li></ul><p><strong>Contribuições</strong></p><p>Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.</p><p><strong>Licença</strong></p><p>Este projeto está licenciado sob a licença MIT. Consulte o arquivo <code>LICENSE</code> para obter detalhes.</p>
-DEVFEST
+# Abordagem Híbrida no Problema do Caixeiro Viajante: Otimização Combinatória, Computabilidade e Complexidade de algoritmos
+
+## Introdução
+
+O Problema do Caixeiro Viajante (PCV) é um desafio fundamental em otimização combinatória e ciência da computação, buscando a rota mais eficiente para visitar várias cidades e retornar ao ponto de origem. Este repositório aborda este desafio de maneira inovadora, combinando o Algoritmo do Vizinho Mais Próximo com o Algoritmo de Otimização por Enxame de Partículas (PSO). Esta abordagem híbrida visa oferecer soluções mais rápidas e eficientes para o PCV, destacando-se como um estudo de caso relevante na computabilidade e complexidade de algoritmos.
+
+## Metodologia
+
+A metodologia deste projeto engloba três etapas fundamentais:
+
+1. **Implementação de Algoritmos Individuais**: Iniciamos com a implementação individual do Algoritmo do Vizinho Mais Próximo e do PSO, avaliando suas performances em instâncias menores do PCV. Este passo foi crucial para entender as capacidades e limitações de cada algoritmo separadamente.
+
+2. **Desenvolvimento da Abordagem Híbrida**: Em seguida, os dois algoritmos foram integrados, criando um sistema híbrido que explora as vantagens de ambos. A eficácia da otimização local do Vizinho Mais Próximo foi combinada com a abrangência global do PSO, resultando em um equilíbrio entre precisão e eficiência temporal.
+
+3. **Testes e Ajustes**: O algoritmo híbrido foi submetido a uma série de testes, com ajustes em seus parâmetros para otimizar sua performance. O objetivo foi superar os algoritmos individuais em termos de velocidade e eficiência, mantendo a precisão na resolução do PCV.
+
+O código-fonte disponível neste repositório inclui toda a implementação e, se aplicável, uma interface para visualização detalhada das rotas. Este projeto não só fornece uma solução avançada para o PCV, mas também contribui significativamente para o entendimento da computabilidade e complexidade em algoritmos de otimização.
+
+## Contribuições
+
+Contribuições são sempre bem-vindas! Se tiver sugestões de melhorias ou encontrar algum bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo `LICENSE`.
+
