@@ -3,7 +3,7 @@ Integrantes/RGM:
 </br>Eduardo Sakae Yasuda - 25855701 - [GitHub](https://github.com/sakaeyasuda)
 </br>Fernando Rodrigues Leite Soares - 27727424 - [GitHub](https://github.com/fernandorls)
 </br>Juan Pablo Rocha de Souza - 26020777 - [GitHub](https://github.com/juanjprs)
-</br>Marcos Hamilton - 26373017 - [GitHub](https://github.com/sakaeyasuda)
+</br>Marcos Hamilton - 26373017 - [GitHub](https://github.com/marcos-hbm)
 </br>
 
 # Abordagem Híbrida no Problema do Caixeiro Viajante: Otimização Combinatória, Computabilidade e Complexidade de algoritmos
