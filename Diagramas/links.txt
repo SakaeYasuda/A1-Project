@@ -1,0 +1,5 @@
+Links dos diagramas:
+Problema do caixeiro viajante: https://whimsical.com/problema-do-caixeiro-viajante-FJ7Uw8ydZPCrCJS6pjB7Zg
+Algoritmo do Vizinho Mais Próximo: https://whimsical.com/algoritmo-do-vizinho-mais-proximo-LEdZ7GUZ69BWa5zD2tWrC4
+Algoritmo de Otimização Por Enxame de Partículas: https://whimsical.com/algoritmo-de-otimizacao-por-enxame-de-particulas-2oV545xiSjXQyT6c4PC6g4
+Algoritmo Hibrido: https://whimsical.com/algoritmo-de-otimizacao-por-enxame-de-particulas-2oV545xiSjXQyT6c4PC6g4
