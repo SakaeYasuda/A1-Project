@@ -1,0 +1,14 @@
+2023-11-16 13:09:04,260 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'c1': 1.5, 'c2': 0.8, 'w': 0.5}
+2023-11-16 13:18:48,064 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'w': 0.5, 'c1': 1.5, 'c2': 0.8}
+2023-11-16 13:18:55,390 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'w': 0.5, 'c1': 1.5, 'c2': 0.8}
+2023-11-16 13:24:04,742 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'w': 0.5, 'c1': 1.5, 'c2': 0.8}
+2023-11-16 13:24:06,119 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'w': 0.5, 'c1': 1.5, 'c2': 0.8}
+2023-11-16 13:24:26,105 - matplotlib.font_manager - INFO - generated new fontManager
+2023-11-16 13:26:04,029 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'w': 0.5, 'c1': 1.5, 'c2': 0.8}
+2023-11-16 13:26:05,342 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'w': 0.5, 'c1': 1.5, 'c2': 0.8}
+2023-11-16 13:28:29,126 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'w': 0.5, 'c1': 1.5, 'c2': 0.8}
+2023-11-16 13:28:30,235 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'w': 0.5, 'c1': 1.5, 'c2': 0.8}
+2023-11-16 13:28:42,303 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'w': 0.5, 'c1': 1.5, 'c2': 0.8}
+2023-11-16 13:28:43,731 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'w': 0.5, 'c1': 1.5, 'c2': 0.8}
+2023-11-16 13:29:00,628 - pyswarms.single.global_best - INFO - Optimize for 300 iters with {'w': 0.5, 'c1': 1.5, 'c2': 0.8}
+2023-11-16 13:29:00,859 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.0, best pos: [ 1.39739014e-09 -3.18320591e-09]
