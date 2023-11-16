@@ -9,7 +9,7 @@ Integrantes/RGM:
 # Sumário
 1. **Artigo sobre a Abordagem Híbrida** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Documenta%C3%A7%C3%A3o/ArtigoAlgoritmoHibrido.pdf)
 2. **Algoritmo do Vizinho Mais Próximo** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Documenta%C3%A7%C3%A3o/ArtigoAlgoritmoHibrido.pdf)
-3. **Algoritmo de Otimização por Partículas de Enxame** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Algoritmos/Otimizacao_PSO.ipynb)
+3. **Algoritmo de Otimização por Partículas de Enxame** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Algoritmos/PSO/Otimizacao_PSO.ipynb)
 4. **Algoritmo de Abordagem Híbrida** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Algoritmos/Otimizacao_PSO.ipynb)
 5. **Diagrama - Problema do Caixeiro Viajante** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Diagramas/Problema%20do%20Caixeiro%20Viajante.png)
 6. **Diagrama - Algoritmo do Vizinho Mais Próximo** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Diagramas/Algoritmo%20do%20Vizinho%20Mais%20Pr%C3%B3ximo.png)
