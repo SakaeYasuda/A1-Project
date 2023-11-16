@@ -9,13 +9,14 @@ Integrantes/RGM:
 
 # Sumário
 1. **Artigo sobre a Abordagem Híbrida** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Documenta%C3%A7%C3%A3o/ArtigoAlgoritmoHibrido.pdf)
-2. **Algoritmo do Vizinho Mais Próximo** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Documenta%C3%A7%C3%A3o/ArtigoAlgoritmoHibrido.pdf)
+2. **Algoritmo do Vizinho Mais Próximo** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Algoritmos/KNN/KNN.ipynb)
 3. **Algoritmo de Otimização por Partículas de Enxame** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Algoritmos/PSO/Otimizacao_PSO.ipynb)
-4. **Algoritmo de Abordagem Híbrida** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Algoritmos/Otimizacao_PSO.ipynb)
-5. **Diagrama - Problema do Caixeiro Viajante** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Diagramas/Problema%20do%20Caixeiro%20Viajante.png)
-6. **Diagrama - Algoritmo do Vizinho Mais Próximo** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Diagramas/Algoritmo%20do%20Vizinho%20Mais%20Pr%C3%B3ximo.png)
-7. **Diagrama - Algoritmo de Otimização Por Enxame de Partículas** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Diagramas/Algoritmo%20de%20Otimiza%C3%A7%C3%A3o%20por%20Enxame%20de%20Part%C3%ADculas.png)
-8. **Diagarama - Algoritmo Híbrido** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Diagramas/Algoritmo%20H%C3%ADbrido%20para%20o%20Problema%20do%20Caixeiro%20Viajante.png)
+4. **Algoritmo de Abordagem Híbrida** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Algoritmos/AlgoritmoHibrido/AH.ipynb)
+5. **Análise Comparativa e Motivação** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Algoritmos/An%C3%A1liseComparativa.ipynb)
+6. **Diagrama - Problema do Caixeiro Viajante** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Diagramas/Problema%20do%20Caixeiro%20Viajante.png)
+7. **Diagrama - Algoritmo do Vizinho Mais Próximo** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Diagramas/Algoritmo%20do%20Vizinho%20Mais%20Pr%C3%B3ximo.png)
+8. **Diagrama - Algoritmo de Otimização Por Enxame de Partículas** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Diagramas/Algoritmo%20de%20Otimiza%C3%A7%C3%A3o%20por%20Enxame%20de%20Part%C3%ADculas.png)
+9. **Diagarama - Algoritmo Híbrido** | [Clique Aqui](https://github.com/SakaeYasuda/A1-Project/blob/main/Diagramas/Algoritmo%20H%C3%ADbrido%20para%20o%20Problema%20do%20Caixeiro%20Viajante.png)
 
 
 # Abordagem Híbrida no Problema do Caixeiro Viajante: Otimização Combinatória, Computabilidade e Complexidade de algoritmos
